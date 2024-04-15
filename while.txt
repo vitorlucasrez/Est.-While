@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+	
+	int p=1;
+	while (p <= 15){
+	    printf("%d", p);
+		p++;
+	}
+}
